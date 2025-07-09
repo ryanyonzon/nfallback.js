@@ -8,8 +8,7 @@
  *    - map
  *    - some
  *
- * Written by Ryan Yonzon <rawswift@gmail.com>
- * Copyright (c) 2012 Ryan Yonzon, http://ryan.rawswift.com/
+ * Copyright (c) 2012 Ryan Yonzon <ryanyonzon@gmail.com>
  * Licensed under the MIT license: http://www.opensource.org/licenses/mit-license.php
  */
 

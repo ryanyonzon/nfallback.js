@@ -8,7 +8,7 @@
  *    - map
  *    - some
  *
- * Unit tests written by Ryan Yonzon <rawswift@gmail.com>
+ * Unit tests written by Ryan Yonzon <ryanyonzon@gmail.com>
  *
  * Some codes are from Mozilla Developer Network (MDN):
  * https://developer.mozilla.org/en-US/docs/JavaScript/New_in_JavaScript/1.6?redirectlocale=en-US&redirectslug=New_in_JavaScript_1.6

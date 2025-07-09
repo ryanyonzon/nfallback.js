@@ -6,7 +6,7 @@
  *
  * Copyrights, please read: https://developer.mozilla.org/en-US/docs/Project:Copyrights
  *
- * Compiled and unit tested by Ryan Yonzon <rawswift@gmail.com>
+ * Compiled and unit tested by Ryan Yonzon <ryanyonzon@gmail.com>
  */
 
 (function() {
